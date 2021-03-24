@@ -1,0 +1,39 @@
+_repo: Venus-Hate_64528
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Beecham, Tom
+    alias: Beecham, Thomas A.
+    birthdate: 1926
+    deathdate: 2000
+    gutenberg_agent_id: '34284'
+    url: http://www.gutenberg.org/2009/agents/34284
+creator:
+  author:
+    agent_name: McGreevey, John
+    birthdate: 1922
+    deathdate: 2010
+    gutenberg_agent_id: '35809'
+    url: http://www.gutenberg.org/2009/agents/35809
+    wikipedia: https://en.wikipedia.org/wiki/John_McGreevey
+description: ''
+gutenberg_issued: '2021-02-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64528'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Space colonies -- Fiction'
+- !lcsh 'Man-woman relationships -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Triangles (Interpersonal relations) -- Fiction'
+- !lcsh 'Venus (Planet) -- Fiction'
+- GITenberg
+title: Venus Hate
+url: http://www.gutenberg.org/ebooks/64528
